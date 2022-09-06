@@ -1,0 +1,23 @@
+.author-description {
+  width: 70%;
+  margin: 0 auto;
+  color: white;
+}
+
+.description {
+  margin-bottom: 1.2rem;
+}
+
+.description p {
+  font-weight: 400;
+  font-size: 0.8rem;
+  font-style: normal;
+  line-height: 20px;
+}
+
+.description h1 {
+  margin-bottom: 0.6rem;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 1px;
+}

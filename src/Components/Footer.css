@@ -1,0 +1,19 @@
+.footer {
+  background-color: #161619;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.4rem;
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.4rem;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.footer i {
+  background-color: #918e9b;
+  padding: 0.2rem;
+  border-radius: 4px;
+  cursor: pointer;
+}

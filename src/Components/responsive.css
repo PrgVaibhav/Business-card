@@ -1,0 +1,27 @@
+@media (min-width: 469px) and (max-width: 1024px) {
+  .contact-card {
+    width: 60%;
+  }
+}
+
+@media (max-width: 468px) {
+  .contact-card {
+    width: 90%;
+  }
+
+  .author-title {
+    font-size: 1.6rem;
+  }
+
+  .contact-btn {
+    gap: 0.8rem;
+  }
+
+  .contact-btn .btn {
+    padding: 0.7rem 1rem;
+  }
+
+  .footer {
+    font-size: 1.2rem;
+  }
+}
